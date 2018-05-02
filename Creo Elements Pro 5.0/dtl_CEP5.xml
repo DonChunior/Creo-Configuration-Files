@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="dtl CEP5" ext="dtl" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments"></Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">2d_region_columns_fit_text allow_3D_dimensions angdim_text_orientation asme_dtm_on_dia_dim_gtol associative_dimensioning aux_line_font axis_interior_clipping axis_line_offset blank_zero_tolerance broken_view_offset chamfer_45deg_leader_style circle_axis_offset clip_diam_dimensions clip_dim_arrow_style clip_dimensions create_area_unfold_segmented crossec_arrow_length crossec_arrow_style crossec_arrow_width crossec_text_place crossec_type cutting_line cutting_line_adapt cutting_line_segment cutting_line_segment_thickness dash_supp_dims_in_region datum_point_shape datum_point_size decimal_marker def_bom_balloon_leader_sym def_bom_balloons_attachment def_bom_balloons_edge_att_sym def_bom_balloons_snap_lines def_bom_balloons_stagger_value def_bom_balloons_surf_att_sym def_view_text_height def_view_text_thickness default_dim_elbows default_font default_pipe_bend_note detail_circle_line_style detail_circle_note_text detail_view_boundary_type detail_view_circle detail_view_scale_factor dim_dot_box_style dim_fraction_format dim_leader_length dim_text_gap draft_scale draw_ang_unit_trail_zeros draw_ang_units draw_arrow_length draw_arrow_style draw_arrow_width draw_attach_sym_height draw_attach_sym_width draw_cosms_in_area_xsec draw_dot_diameter draw_layer_overrides_model drawing_text_height drawing_units dual_digits_diff dual_dimension_brackets dual_dimensioning dual_metric_dim_show_fractions dual_secondary_units gtol_datum_placement_default gtol_datums gtol_dim_placement gtol_symbols_same_size half_section_line half_view_line harn_tang_line_display hidden_tangent_edges hlr_for_datum_curves hlr_for_pipe_solid_cl hlr_for_threads ignore_model_layer_status iso_ordinate_delta lead_trail_zeros lead_trail_zeros_scope leader_elbow_length line_style_length line_style_standard location_radius max_balloon_radius mesh_surface_lines min_balloon_radius min_dist_between_bom_balloons model_digits_in_region model_display_for_new_views model_grid_balloon_display model_grid_balloon_size model_grid_neg_prefix model_grid_num_dig_display model_grid_offset model_grid_text_orientation model_grid_text_position new_iso_set_datums node_radius ord_dim_standard orddim_text_orientation parallel_dim_placement pipe_pt_shape pipe_pt_size pos_loc_format projection_type radial_pattern_axis_circle ref_des_display reference_bom_balloon_text remove_cosms_from_xsecs restricted_gtol_dialog select_hidden_edges_in_dwg set_datum_leader_length show_cbl_term_in_region show_pipe_theor_cl_pts show_quilts_in_total_xsecs show_total_unfold_seam shrinkage_value_display stacked_gtol_align sym_flip_rotated_text symmetric_tol_display_standard tan_edge_display_for_new_views text_orientation text_thickness text_width_factor thread_standard tol_display tol_text_height_factor tol_text_width_factor use_major_units view_note view_scale_denominator view_scale_format weld_solid_xsec weld_symbol_standard witness_line_delta witness_line_offset yes_no_parameter_display</Keywords>
+            <Keywords name="Keywords2"></Keywords>
+            <Keywords name="Keywords3"></Keywords>
+            <Keywords name="Keywords4"></Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
