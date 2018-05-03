@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 ### Added
 - Enabled "sup" as valid extension for config files so that config.sup files also have syntax highlighting.
+- Provided some useful information in the README file.
 
 ## [2.1.0] - 2018-01-25
 ### Changed
