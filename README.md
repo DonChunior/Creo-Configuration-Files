@@ -4,7 +4,13 @@ This project provides [Notepad++](https://notepad-plus-plus.org/) [UDL files](ht
 
 The benefit of using the UDL files is that you get [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) when editing the configuration files with Notepad++.
 
-## Installing
+## Getting Started
+
+### Download
+
+The latest version of the UDL files can be downloaded from https://github.com/DonChunior/Creo-Configuration-Files/releases/latest.
+
+### Installing
 
 How to install a UDL file in Notepad++:
 1. If Notepad++ is open, select "Define your language" from the "Language" menu.
