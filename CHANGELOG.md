@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 ### Added
 - New UDL files for Creo Parametric 5.0.0.0.
+- Added more information in the README file.
 
 ## [2.2.0] - 2018-05-03
 ### Added
