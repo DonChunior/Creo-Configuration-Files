@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="dtl Creo4" ext="dtl" udlVersion="2.1">
+    <UserLang name="dtl Creo6" ext="dtl" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
@@ -35,30 +35,30 @@
             <Keywords name="Delimiters"></Keywords>
         </KeywordLists>
         <Styles>
-            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="&#x2118;&#x0425;0" fontStyle="0" nesting="0" />
-            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="&#x70E8;&#x060A;&#x9F38;&#x6E68;&#xA240;&#x6E68;&#xA228;&#x6E68;R" fontStyle="0" nesting="0" />
-            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="no" fontStyle="0" nesting="0" />
-            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontName="&#x0280;&#x0629;&#x9F38;&#x6E68;&#xA240;&#x6E68;&#xA228;&#x6E68;&#x000C;" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontName="no" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS2" fgColor="000000" bgColor="FFFFFF" fontName="box" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS3" fgColor="000000" bgColor="FFFFFF" fontName="yes" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS4" fgColor="000000" bgColor="FFFFFF" fontName="250" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontName="&#xF948;&#x0628;&#x9420;&#x0624;&#xC818;&#x0124;&#x0001;&#x012F;&#x0008;" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="0" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="&#xCA38;&#x009A;&#x81F0;&#x0624;&#xCA38;&#x009A;&#x0001;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="&#x7808;&#x0714;&#x0001;&#x4340;&#x00F3;" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="&#x000F;" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontName="otItem" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontName="utpos" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="000000" bgColor="FFFFFF" fontName="utpos" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="000000" bgColor="FFFFFF" fontName="utpos" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="000000" bgColor="FFFFFF" fontName="&#xA190;&#x02AA;&#x0001;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontName="&#x000F;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="&#xC292;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="&#x6529;&#x2DCC;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="nistration\PTC\Update von CP2-Wochenversion M220 zu M240.txt" fontStyle="0" nesting="0" />
             <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="&#x85A8;&#x0624;&#x0001;&#x8000;&#x00F1;" fontStyle="0" nesting="0" />
-            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="&#x000F;" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="Configuration-Files-3.1.0\Creo Parametric 6.0" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="&#x4653;&#x0018;2&#x016A;" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="&#xC818;&#x0124;&#x0001;" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="&#x000F;" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="&#x00F5;" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="&#xC818;&#x0124;&#x0001;&#x012E;&#x00B6;" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="&#x000F;" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="&#x00C7;" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="&#xC913;&#x3FEF;" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="&#x000F;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="&#xB3B4;&#x2DDE;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="&#x6964;&#x7473;&#x6972;&#x7562;&#x6974;&#x6E6F;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="&#x00B8;&#x0714;&#x0BC8;&#x0714;&#x0C70;&#x0714;&#x0001;&#x42E0;&#x009D;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="&#x6E69;&#x6574;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="e UI;5" fontStyle="0" nesting="0" />
         </Styles>
     </UserLang>
 </NotepadPlus>
