@@ -31,4 +31,4 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgment
 
-- Many thanks to [Olaf Corten](http://proesite.com/). The option lists on his website are the basis of most UDL files.
+- Many thanks to [Olaf Corten](https://creosite.com/). The option lists on his website are the basis of most UDL files.
