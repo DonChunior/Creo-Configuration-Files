@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.1.1] - 2020-08-21
+### Fixed
+- Fixed XML issues that caused some UDL files to not import correctly.
+
 ## [6.1.0] - 2020-08-21
 ### Changed
 - Updated UDL files for Creo Parametric 4.0 M130, Creo Parametric 5.0.6.0, Creo Parametric 6.0.5.0 and Creo Parametric 7.0.1.0.
