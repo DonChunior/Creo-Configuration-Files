@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [6.2.1] - 2021-01-12
 ### Fixed
-- Olaf Corten's config.pro settings lists from Creo 4.0, 5.0, 6.0 and 7.0 contained some mistakes, according to his own information, so he had to regenerate them. 
+- Olaf Corten's config.pro settings lists from Creo 4.0, 5.0, 6.0 and 7.0 contained some mistakes, according to his own information, so he had to regenerate them.  
   These new settings lists have been adopted.
 
 ## [6.2.0] - 2020-12-10
