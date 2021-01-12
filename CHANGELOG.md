@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.2.1] - 2021-01-12
+### Fixed
+- Olaf Corten's config.pro settings lists from Creo 4.0, 5.0, 6.0 and 7.0 contained some mistakes, according to his own information, so he had to regenerate them.  
+  These new settings lists have been adopted.
+
 ## [6.2.0] - 2020-12-10
 ### Changed
 - Updated UDL files for Creo Parametric 4.0 M140, Creo Parametric 6.0.5.1 and Creo Parametric 7.0.2.0.
