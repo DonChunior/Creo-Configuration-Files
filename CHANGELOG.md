@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.3.0] - 2021-01-22
+### Added
+- New UDL file for ModelCHECK based on Creo Parametric 7.0.2.0 documentation.
+
+### Fixed
+- In the ModelCHECK UDL file of Creo Parametric 4.0, the config_init.mc setting FORCE_UPDATE_MC_PARAMS_ALL was missing and has been added.
+
 ## [6.2.1] - 2021-01-12
 ### Fixed
 - Olaf Corten's config.pro settings lists from Creo 4.0, 5.0, 6.0 and 7.0 contained some mistakes, according to his own information, so he had to regenerate them.  
