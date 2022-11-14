@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.1.0] - 2022-11-14
+### Added
+- Drawing detail options [now marked as hidden in Olaf Corten's lists](https://creosite.com/index.php/2022/05/17/now-also-hidden-drawing-setup-options-available/) are displayed in the same style as hidden config.pro settings.
+
+### Changed
+- Updated UDL files for Creo Parametric 7.0.10.0 Creo Parametric 8.0.6.0 and Creo Parametric 9.0.2.0.
+
 ## [8.0.0] - 2022-05-17
 ### Added
 - New UDL files for Creo Parametric 9.0.0.0.
