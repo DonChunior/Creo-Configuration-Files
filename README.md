@@ -28,9 +28,7 @@ Once the UDL is imported into Notepad++ the following features are supported:
 3. Alternatively, the config option will be highlighted as bold and italic light blue text for hidden config options.
 4. If a config option is not highlighted, please check for typing errors and if you are using the correct version.
 5. Comments start with an exclamation mark and are rendered as brown text.
-6. If an environment variable is used, starting with the dollar sign `$`, the whole string will be highlighted as green text.
-7. The green highlighting will stop at a space character, which can be used to check for potential syntax errors within a path.
-8. Config-options can be grouped using the syntax `! =====` for opening and `! -----` for closing the group.
+6. Config-options can be grouped using the syntax `! =====` for opening and `! -----` for closing the group.
 
 
 ## Author
