@@ -9,12 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- New UDL files for Creo Parametric 10.0.0.0.
 - Possibility to group config.pro settings by [@Flo-R1der](https://github.com/Flo-R1der).
 - New How To chapter in README by [@Flo-R1der](https://github.com/Flo-R1der).
 - ModelCHECK UDL file updated with new settings and options from Creo Parametric 7.0.11.0.
 
 ### Changed
 
+- Updated UDL files for Creo Parametric 7.0.11.0 Creo Parametric 8.0.8.0 and Creo Parametric 9.0.4.0.
 - Renamed README chapter "Author" to "Authors and acknowledgment" and added [Flo-R1der](https://github.com/Flo-R1der).
 
 ## [8.1.0] - 2022-11-14
