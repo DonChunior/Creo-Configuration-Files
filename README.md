@@ -30,10 +30,10 @@ Once the UDL is imported into Notepad++ the following features are supported:
 5. Comments start with an exclamation mark and are rendered as brown text.
 6. Config-options can be grouped using the syntax `! =====` for opening and `! -----` for closing the group.
 
-
-## Author
+## Authors and acknowledgment
 
 - Domenic Laritz, CAD system administrator at [Liebherr](https://www.liebherr.com/).
+- Thanks to [Flo-R1der](https://github.com/Flo-R1der) for adding the possibility to group config.pro settings as well as the README chapter "[How to use the syntax highlighting]".
 
 ## License
 
