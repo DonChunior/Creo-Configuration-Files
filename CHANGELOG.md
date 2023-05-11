@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Possibility to group config.pro settings by [@Flo-R1der](https://github.com/Flo-R1der).
 - New How To chapter in README by [@Flo-R1der](https://github.com/Flo-R1der).
+- ModelCHECK UDL file updated with new settings and options from Creo Parametric 7.0.11.0.
 
 ### Changed
 
