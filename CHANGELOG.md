@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+
+- Possibility to group config.pro settings by [@Flo-R1der](https://github.com/Flo-R1der).
+- New How To chapter in README by [@Flo-R1der](https://github.com/Flo-R1der).
+
+### Changed
+
+- Renamed README chapter "Author" to "Authors and acknowledgment" and added [Flo-R1der](https://github.com/Flo-R1der).
+
 ## [8.1.0] - 2022-11-14
 
 ### Added
