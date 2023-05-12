@@ -13,12 +13,13 @@ The latest version of the UDL files can be downloaded from https://github.com/Do
 ### Installing
 
 How to install a UDL file in Notepad++:
-1. If Notepad++ is open, select "Define your language" from the "Language" menu.
-2. Click on the "Import" button in the dialog window "User-Defined".
-3. Select the corresponding UDL file (*.xml) in the selection dialog and click on the button "Open".
-4. Confirm the message box "Import successful" by clicking on the button "OK".
-5. Follow the steps 2 to 4 to install more UDL files.
-6. Close the dialog window "User-Defined" by clicking on the "X" at the top right corner.
+
+1. Download the asset "Source Code (zip)" from the previously mentioned link.
+2. If it doesn't already exist, create a subfolder named *userDefineLangs* in the directory *%APPDATA%\Notepad++* (i.e. *C:\Users\\%USERNAME%\AppData\Roaming\Notepad++*).
+3. Extract the *\*.xml* files of the UDLs you want into the just mentioned *userDefineLangs* folder.
+4. After the next restart of Notepad++ the UDLs will be available.
+
+For details see the chapters "[Import a UDL](https://npp-user-manual.org/docs/user-defined-language-system/#import-a-udl)" and "[UDL File Locations](https://npp-user-manual.org/docs/user-defined-language-system/#udl-file-locations)" in the Notepad++ User Manual.
 
 ### How to use the syntax highlighting
 
