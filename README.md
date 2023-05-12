@@ -1,6 +1,6 @@
 # Creo Configuration Files
 
-This project provides [Notepad++](https://notepad-plus-plus.org/) [UDL files](http://docs.notepad-plus-plus.org/index.php/User_Defined_Languages) for several configuration files of [PTC](https://www.ptc.com/)'s CAD system [Creo Parametric](https://www.ptc.com/en/products/cad/creo/parametric) (formerly known as Pro/ENGINEER).
+This project provides [Notepad++](https://notepad-plus-plus.org/) [UDL files](https://npp-user-manual.org/docs/user-defined-language-system/) for several configuration files of [PTC](https://www.ptc.com/)'s CAD system [Creo Parametric](https://www.ptc.com/en/products/creo/parametric) (formerly known as Pro/ENGINEER).
 
 The benefit of using the UDL files is that you get [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) when editing the configuration files with Notepad++.
 
