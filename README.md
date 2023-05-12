@@ -24,7 +24,8 @@ For details see the chapters "[Import a UDL](https://npp-user-manual.org/docs/us
 ### How to use the syntax highlighting
 
 Once the UDL is imported into Notepad++ the following features are supported:
-1. Creo config-files will automatically be detected based on file endings `*.pro` and `*.sup`.
+
+1. Creo config-files will automatically be detected based on file endings *\*.pro* and *\*.sup*.
 2. Once a Creo config option is typed into Notepad++ it will be highlighted as bold blue text.
 3. Alternatively, the config option will be highlighted as bold and italic light blue text for hidden config options.
 4. If a config option is not highlighted, please check for typing errors and if you are using the correct version.
