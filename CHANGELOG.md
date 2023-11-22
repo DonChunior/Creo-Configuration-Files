@@ -26,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Updated UDL files for Creo Parametric 7.0.11.0 Creo Parametric 8.0.8.0 and Creo Parametric 9.0.4.0.
+- Updated UDL files for Creo Parametric 7.0.11.0, Creo Parametric 8.0.8.0 and Creo Parametric 9.0.4.0.
 - Renamed README chapter "Author" to "Authors and acknowledgment" and added [Flo-R1der](https://github.com/Flo-R1der).
 
 ## [8.1.0] - 2022-11-14
@@ -37,7 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Updated UDL files for Creo Parametric 7.0.10.0 Creo Parametric 8.0.6.0 and Creo Parametric 9.0.2.0.
+- Updated UDL files for Creo Parametric 7.0.10.0, Creo Parametric 8.0.6.0 and Creo Parametric 9.0.2.0.
 
 ## [8.0.0] - 2022-05-17
 
