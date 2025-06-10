@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - ModelCHECK UDL file from Creo Parametric 4.0 moved to the ModelCHECK directory explicitly provided for this purpose.
 
+### Fixed
+
+- Characters at the end of lines within multi-line comments are now no longer displayed in the standard color but in the color of the comments.
+
 ## [11.0.0] - 2025-06-06
 
 ### Added
