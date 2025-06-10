@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- UDL files for dark theme added.
+
 ### Changed
 
 - ModelCHECK UDL file from Creo Parametric 4.0 moved to the ModelCHECK directory explicitly provided for this purpose.
