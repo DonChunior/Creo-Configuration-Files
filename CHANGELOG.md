@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [12.1.0] - 2026-09-24
+
+### Changed
+
+- Updated UDL files for Creo Parametric 10.0.11.0, Creo Parametric 11.0.9.0, Creo Parametric 12.4.5.0 and Creo Parametric 13.4.1.0.
+- Updated UDL files of ModelCHECK for Creo Parametric 13.4.1.0.
+
 ## [12.0.0] - 2026-06-23
 
 ### Added
