@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Updated UDL files for Creo Parametric 10.0.11.0, Creo Parametric 11.0.9.0 and Creo Parametric 12.4.5.0.
+- Updated UDL files for Creo Parametric 10.0.11.0, Creo Parametric 11.0.9.0, Creo Parametric 12.4.5.0 and and Creo Parametric 13.4.1.0.
 
 ## [12.0.0] - 2026-06-23
 
